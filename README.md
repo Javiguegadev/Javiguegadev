@@ -28,7 +28,7 @@ Me apasiona cuidar cada detalle de la experiencia de usuario, el rendimiento y l
 
 ---
 
-### 🚀 Proyectos Desticulados
+### 🚀 Proyectos Destacados
 
 * **[Spotify Clone](https://github.com/javiergg13/spotify-clone)**: Clon web completo de Spotify interactivo, desarrollado con **Astro, React, Svelte, Tailwind** y optimizado con la API de *View Transitions*.
 
